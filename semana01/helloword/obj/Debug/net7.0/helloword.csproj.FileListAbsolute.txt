@@ -1,0 +1,15 @@
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/bin/Debug/net7.0/helloword
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/bin/Debug/net7.0/helloword.deps.json
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/bin/Debug/net7.0/helloword.runtimeconfig.json
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/bin/Debug/net7.0/helloword.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/bin/Debug/net7.0/helloword.pdb
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.csproj.AssemblyReference.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.GeneratedMSBuildEditorConfig.editorconfig
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.AssemblyInfoInputs.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.AssemblyInfo.cs
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.csproj.CoreCompileInputs.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/refint/helloword.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.pdb
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/helloword.genruntimeconfig.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/helloword/obj/Debug/net7.0/ref/helloword.dll
