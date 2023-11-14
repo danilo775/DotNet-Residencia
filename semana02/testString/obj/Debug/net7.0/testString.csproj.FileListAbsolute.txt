@@ -1,0 +1,15 @@
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/bin/Debug/net7.0/testString
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/bin/Debug/net7.0/testString.deps.json
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/bin/Debug/net7.0/testString.runtimeconfig.json
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/bin/Debug/net7.0/testString.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/bin/Debug/net7.0/testString.pdb
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.csproj.AssemblyReference.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.GeneratedMSBuildEditorConfig.editorconfig
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.AssemblyInfoInputs.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.AssemblyInfo.cs
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.csproj.CoreCompileInputs.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/refint/testString.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.pdb
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.genruntimeconfig.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/ref/testString.dll
