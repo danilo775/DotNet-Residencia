@@ -1,0 +1,14 @@
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\bin\Debug\net7.0\atividade08.exe
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\bin\Debug\net7.0\atividade08.deps.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\bin\Debug\net7.0\atividade08.runtimeconfig.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\bin\Debug\net7.0\atividade08.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\bin\Debug\net7.0\atividade08.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.AssemblyInfoInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.AssemblyInfo.cs
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.csproj.CoreCompileInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\refint\atividade08.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\atividade08.genruntimeconfig.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana01\Pratica.NET-P001\atividade08\obj\Debug\net7.0\ref\atividade08.dll
