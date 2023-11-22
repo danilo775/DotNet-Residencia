@@ -1,38 +1,78 @@
-﻿namespace Pratica.NET_P002;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-public class SistemaDeTarefas
+namespace MeuProjeto
 {
-    // Atributos privados
-    private List<Tarefa> listaTarefasCriadas;
-    private List<Tarefa> listaTarefasConcluidas;
-
-    // Construtor
-    public SistemaDeTarefas()
+    public class GerenciadorTarefas
     {
-        listaTarefasCriadas = new List<Tarefa>();
-        listaTarefasConcluidas = new List<Tarefa>();
-    }
+        private List<Tarefa> tarefas;
 
-    // Métodos de acesso (getters e setters)
-    public List<Tarefa> GetListaTarefasCriadas()
-    {
-        return listaTarefasCriadas;
-    }
+        public GerenciadorTarefas()
+        {
+            tarefas = new List<Tarefa>();
+        }
 
-    public void SetListaTarefasCriadas(List<Tarefa> novaListaTarefasCriadas)
-    {
-        listaTarefasCriadas = novaListaTarefasCriadas;
-    }
+        public void CriarTarefa(string titulo, string descricao, DateTime dataVencimento)
+        {
+            Tarefa tarefa = new Tarefa
+            {
+                Titulo = titulo,
+                Descricao = descricao,
+                DataVencimento = dataVencimento,
+                Concluida = false
+            };
+            tarefas.Add(tarefa);
+        }
 
-    public List<Tarefa> GetListaTarefasConcluidas()
-    {
-        return listaTarefasConcluidas;
-    }
+        public List<Tarefa> ListarTarefas()
+        {
+            return tarefas;
+        }
 
-    public void SetListaTarefasConcluidas(List<Tarefa> novaListaTarefasConcluidas)
-    {
-        listaTarefasConcluidas = novaListaTarefasConcluidas;
-    }
+        public void MarcarTarefaComoConcluida(Tarefa tarefa)
+        {
+            tarefa.Concluida = true;
+        }
 
-    public void Criar tarefas
+        public List<Tarefa> ListarTarefasPendentes()
+        {
+            return tarefas.Where(t => !t.Concluida).ToList();
+        }
+
+        public List<Tarefa> ListarTarefasConcluidas()
+        {
+            return tarefas.Where(t => t.Concluida).ToList();
+        }
+
+        public void ExcluirTarefa(Tarefa tarefa)
+        {
+            tarefas.Remove(tarefa);
+        }
+
+        public List<Tarefa> PesquisarTarefas(string palavraChave)
+        {
+            return tarefas.Where(t => t.Titulo.Contains(palavraChave) || t.Descricao.Contains(palavraChave)).ToList();
+        }
+
+        public int NumeroTarefasConcluidas()
+        {
+            return tarefas.Count(t => t.Concluida);
+        }
+
+        public int NumeroTarefasPendentes()
+        {
+            return tarefas.Count(t => !t.Concluida);
+        }
+
+        public Tarefa TarefaMaisAntiga()
+        {
+            return tarefas.OrderBy(t => t.DataVencimento).FirstOrDefault();
+        }
+
+        public Tarefa TarefaMaisRecente()
+        {
+            return tarefas.OrderByDescending(t => t.DataVencimento).FirstOrDefault();
+        }
+    }
 }
