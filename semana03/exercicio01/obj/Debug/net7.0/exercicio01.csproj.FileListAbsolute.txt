@@ -13,3 +13,10 @@
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/obj/Debug/net7.0/exercicio01.pdb
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/obj/Debug/net7.0/exercicio01.genruntimeconfig.cache
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/obj/Debug/net7.0/ref/exercicio01.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\exercicio01.AssemblyInfoInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\exercicio01.AssemblyInfo.cs
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\exercicio01.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\refint\exercicio01.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\obj\Debug\net7.0\exercicio01.pdb

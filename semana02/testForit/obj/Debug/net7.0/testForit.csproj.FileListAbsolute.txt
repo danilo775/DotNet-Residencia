@@ -13,3 +13,17 @@
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testForit/obj/Debug/net7.0/testForit.pdb
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testForit/obj/Debug/net7.0/testForit.genruntimeconfig.cache
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testForit/obj/Debug/net7.0/ref/testForit.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\bin\Debug\net7.0\testForit.exe
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\bin\Debug\net7.0\testForit.deps.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\bin\Debug\net7.0\testForit.runtimeconfig.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\bin\Debug\net7.0\testForit.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\bin\Debug\net7.0\testForit.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.AssemblyInfoInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.AssemblyInfo.cs
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.csproj.CoreCompileInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\refint\testForit.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\testForit.genruntimeconfig.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testForit\obj\Debug\net7.0\ref\testForit.dll

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/danilo-conceicao-santos/.nuget/packages/": {}
+    "C:\\Users\\Analia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/exercicio01/exercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana02\\exercicio01\\exercicio01.csproj",
       "projectName": "exercicio01",
-      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/exercicio01/exercicio01.csproj",
-      "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/exercicio01/obj/",
+      "projectPath": "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana02\\exercicio01\\exercicio01.csproj",
+      "packagesPath": "C:\\Users\\Analia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana02\\exercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Analia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,17 @@
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.pdb
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/testString.genruntimeconfig.cache
 /home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testString/obj/Debug/net7.0/ref/testString.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\bin\Debug\net7.0\testString.exe
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\bin\Debug\net7.0\testString.deps.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\bin\Debug\net7.0\testString.runtimeconfig.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\bin\Debug\net7.0\testString.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\bin\Debug\net7.0\testString.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.AssemblyInfoInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.AssemblyInfo.cs
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.csproj.CoreCompileInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\refint\testString.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\testString.genruntimeconfig.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana02\testString\obj\Debug\net7.0\ref\testString.dll

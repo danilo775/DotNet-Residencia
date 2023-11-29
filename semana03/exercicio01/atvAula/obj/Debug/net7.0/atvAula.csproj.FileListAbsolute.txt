@@ -1,0 +1,14 @@
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\bin\Debug\net7.0\atvAula.exe
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\bin\Debug\net7.0\atvAula.deps.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\bin\Debug\net7.0\atvAula.runtimeconfig.json
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\bin\Debug\net7.0\atvAula.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\bin\Debug\net7.0\atvAula.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.AssemblyInfoInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.AssemblyInfo.cs
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.csproj.CoreCompileInputs.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\refint\atvAula.dll
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.pdb
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\atvAula.genruntimeconfig.cache
+C:\Users\Analia\Desktop\Residencia\DotNet-Residencia\semana03\exercicio01\atvAula\obj\Debug\net7.0\ref\atvAula.dll

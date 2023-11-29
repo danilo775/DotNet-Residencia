@@ -1,0 +1,14 @@
+C:\Users\Analia\Desktop\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.exe
+C:\Users\Analia\Desktop\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.deps.json
+C:\Users\Analia\Desktop\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.runtimeconfig.json
+C:\Users\Analia\Desktop\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.dll
+C:\Users\Analia\Desktop\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.pdb
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.AssemblyInfoInputs.cache
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.AssemblyInfo.cs
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.dll
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\refint\GerenciamentoEstoque.dll
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.pdb
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.genruntimeconfig.cache
+C:\Users\Analia\Desktop\GerenciamentoEstoque\obj\Debug\net7.0\ref\GerenciamentoEstoque.dll

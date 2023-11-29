@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj": {}
+    "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana03\\pessoa\\pessoa.csproj": {}
   },
   "projects": {
-    "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj": {
+    "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana03\\pessoa\\pessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj",
+        "projectUniqueName": "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana03\\pessoa\\pessoa.csproj",
         "projectName": "pessoa",
-        "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj",
-        "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-        "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/obj/",
+        "projectPath": "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana03\\pessoa\\pessoa.csproj",
+        "packagesPath": "C:\\Users\\Analia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Analia\\Desktop\\Residencia\\DotNet-Residencia\\semana03\\pessoa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Analia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
