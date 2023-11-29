@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuoZ75Tyy9RwRJqeFaCpFqqJ0UapLhhfMNNb4Ljf64GmsH2VNzcZSdAAT5BuRSM+kXkUXD0y3eisyZ5ZY2d1qA==",
+  "dgSpecHash": "+WTRSrBdPIwKJrC2H50yIupqKmmZFMepYgNj+ZU9OirTTv1ZegJ2NwWWKHzI+wmKiZl2iIpRJQaIRgrxneLi6Q==",
   "success": true,
-  "projectFilePath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/exercicio01.csproj",
+  "projectFilePath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/exercicio01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

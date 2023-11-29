@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/atvAula/atvAula.csproj",
+      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/atvAula/atvAula.csproj",
       "projectName": "atvAula",
-      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/atvAula/atvAula.csproj",
+      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/atvAula/atvAula.csproj",
       "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/atvAula/obj/",
+      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/atvAula/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"

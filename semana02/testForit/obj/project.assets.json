@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testForit/testForit.csproj",
+      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana02/testForit/testForit.csproj",
       "projectName": "testForit",
-      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testForit/testForit.csproj",
+      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana02/testForit/testForit.csproj",
       "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/testForit/obj/",
+      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana02/testForit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

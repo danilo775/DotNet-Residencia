@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj": {}
+    "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/pessoa/pessoa.csproj": {}
   },
   "projects": {
-    "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj": {
+    "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/pessoa/pessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj",
+        "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/pessoa/pessoa.csproj",
         "projectName": "pessoa",
-        "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/pessoa.csproj",
+        "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/pessoa/pessoa.csproj",
         "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-        "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/pessoa/obj/",
+        "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/pessoa/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"

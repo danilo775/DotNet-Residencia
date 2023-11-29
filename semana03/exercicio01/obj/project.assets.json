@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/exercicio01.csproj",
+      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/exercicio01.csproj",
       "projectName": "exercicio01",
-      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/exercicio01.csproj",
+      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/exercicio01.csproj",
       "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana03/exercicio01/obj/",
+      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana03/exercicio01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/exercicio02/exercicio02.csproj",
+      "projectUniqueName": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana02/exercicio02/exercicio02.csproj",
       "projectName": "exercicio02",
-      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/exercicio02/exercicio02.csproj",
+      "projectPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana02/exercicio02/exercicio02.csproj",
       "packagesPath": "/home/danilo-conceicao-santos/.nuget/packages/",
-      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/dotNET/semana02/exercicio02/obj/",
+      "outputPath": "/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/semana02/exercicio02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danilo-conceicao-santos/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }
