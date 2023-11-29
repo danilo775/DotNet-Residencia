@@ -1,8 +1,7 @@
-namespace Namespace;
-public class Medico
+namespace GerenciamentoConsultorio
 {
-      public string Nome { get; set; }
-    public DateTime DataNascimento { get; set; }
-    public string CPF { get; set; }
-    public string CRM { get; set; }
+    class Medico : Pessoa
+    {
+        public string CRM { get; set; }
+    }
 }
