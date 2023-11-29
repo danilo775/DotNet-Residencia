@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace GerenciamentoConsultorio
 {
     static class Relatorios
@@ -13,6 +9,14 @@ namespace GerenciamentoConsultorio
                 CalculaIdade(medico.DataNascimento) <= idadeMaxima).ToList();
         }
 
-    
+   
+
+        private static int CalculaIdade(DateTime dataNascimento)
+        {
+            int idade = DateTime.Today.Year - dataNascimento.Year;
+            if (dataNascimento.Date > DateTime.Today.AddYears(-idade))
+                idade--;
+            return idade;
+        }
     }
 }

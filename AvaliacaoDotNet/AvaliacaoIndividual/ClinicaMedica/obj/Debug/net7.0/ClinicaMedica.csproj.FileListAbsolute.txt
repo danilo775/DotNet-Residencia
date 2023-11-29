@@ -1,0 +1,15 @@
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/bin/Debug/net7.0/ClinicaMedica
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/bin/Debug/net7.0/ClinicaMedica.deps.json
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/bin/Debug/net7.0/ClinicaMedica.runtimeconfig.json
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/bin/Debug/net7.0/ClinicaMedica.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/bin/Debug/net7.0/ClinicaMedica.pdb
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.csproj.AssemblyReference.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.GeneratedMSBuildEditorConfig.editorconfig
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.AssemblyInfoInputs.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.AssemblyInfo.cs
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.csproj.CoreCompileInputs.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/refint/ClinicaMedica.dll
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.pdb
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ClinicaMedica.genruntimeconfig.cache
+/home/danilo-conceicao-santos/Documentos/Residencia/DotNet-Residencia/AvaliacaoDotNet/AvaliacaoIndividual/ClinicaMedica/obj/Debug/net7.0/ref/ClinicaMedica.dll

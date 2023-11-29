@@ -37,6 +37,6 @@ namespace GerenciamentoConsultorio
             }
         }
 
-        // Outros métodos e funcionalidades do consultório...
+        
     }
 }
