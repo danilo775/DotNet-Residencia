@@ -7,11 +7,28 @@
             Console.Clear();
             List<Medico> medicos = new List<Medico>
             {
-                new Medico { Nome = "João", DataNascimento = new DateTime(1980, 5, 10), CPF = "12345678901", CRM = "12345" },
+                
+
+            string cpf = "12345678901";
+
+            if (cpf.Length == 11 && CPFValidator.IsValid(cpf))
+            {
+               
+                Console.WriteLine("CPF válido: " + cpf);
+            }
+            else
+            {
+                // O CPF não está no formato correto, trate o erro aqui
+                Console.WriteLine("CPF inválido!");
+            }
+
+
+                new Medico { Nome = "João", DataNascimento = new DateTime(1980, 5, 10), CPF = "cpf", CRM = "12345" },
+                
                 new Medico { Nome = "Maria", DataNascimento = new DateTime(1975, 8, 20), CPF = "23456789012", CRM = "23456" },
                 new Medico { Nome = "Pedro", DataNascimento = new DateTime(1992, 2, 15), CPF = "34567890123", CRM = "34567" }
             };
-
+            
             List<Paciente> pacientes = new List<Paciente>
             {
                 new Paciente { Nome = "Ana", DataNascimento = new DateTime(1990, 3, 20), CPF = "45678901234", Sexo = "Feminino", Sintomas = "Dor de cabeça" },
