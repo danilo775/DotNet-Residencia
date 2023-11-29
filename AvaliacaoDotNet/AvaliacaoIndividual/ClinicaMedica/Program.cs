@@ -1,4 +1,6 @@
-﻿namespace GerenciamentoConsultorio
+﻿using System;
+using System.Collections.Generic;
+namespace GerenciamentoConsultorio
 {
     class Program
     {
@@ -7,23 +9,7 @@
             Console.Clear();
             List<Medico> medicos = new List<Medico>
             {
-                
-
-            string cpf = "12345678901";
-
-            if (cpf.Length == 11 && CPFValidator.IsValid(cpf))
-            {
-               
-                Console.WriteLine("CPF válido: " + cpf);
-            }
-            else
-            {
-                // O CPF não está no formato correto, trate o erro aqui
-                Console.WriteLine("CPF inválido!");
-            }
-
-
-                new Medico { Nome = "João", DataNascimento = new DateTime(1980, 5, 10), CPF = "cpf", CRM = "12345" },
+                new Medico { Nome = "João", DataNascimento = new DateTime(1980, 5, 10), CPF = "12345678901", CRM = "12345" },
                 
                 new Medico { Nome = "Maria", DataNascimento = new DateTime(1975, 8, 20), CPF = "23456789012", CRM = "23456" },
                 new Medico { Nome = "Pedro", DataNascimento = new DateTime(1992, 2, 15), CPF = "34567890123", CRM = "34567" }
@@ -35,6 +21,17 @@
                 new Paciente { Nome = "Carlos", DataNascimento = new DateTime(1985, 10, 25), CPF = "56789012345", Sexo = "Masculino", Sintomas = "Febre" },
                 new Paciente { Nome = "Mariana", DataNascimento = new DateTime(1998, 7, 12), CPF = "67890123456", Sexo = "Feminino", Sintomas = "Dor de garganta" }
             };
+
+            string cpf = "12345678901";
+
+            if (cpf.Length == 11 && CPFValidator.IsValid(cpf))
+            {
+                Console.WriteLine("CPF válido: " + cpf);
+            }
+            else
+            {
+                Console.WriteLine("CPF inválido!");
+            }
 
             List<Medico> medicosComIdadeEntre = Relatorios.MedicosComIdadeEntre(medicos, 30, 50);
             Console.WriteLine("Médicos com idade entre 30 e 50 anos:");
